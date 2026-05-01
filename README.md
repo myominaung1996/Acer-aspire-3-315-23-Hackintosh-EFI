@@ -8,7 +8,7 @@ Acer Aspire 3 A315-23(Ventura)
 
 CPU: AMD Ryzen 5 3500u
 
-GPU: AMD Intigrated Graphics ("Picasso" Architecture)
+GPU: AMD Radeon RX Vega 8 2gb
 
 Ram: 20Gb of DDR4 @ 2400mhz
 
