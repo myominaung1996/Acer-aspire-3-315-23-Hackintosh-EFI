@@ -1,4 +1,5 @@
-<img width="1920" height="1080" alt="Screenshot 2026-05-01 at 4 37 36 PM" src="https://github.com/user-attachments/assets/7fd3b34d-f659-4707-a7b8-b39ec6baeaad" /># Acer-aspire-3-315-23-Hackintosh-EFI
+<img width="1920" height="1080" alt="Screenshot 2026-05-01 at 4 37 30 PM" src="https://github.com/user-attachments/assets/e0ab7d38-2993-476d-8173-62324a321dda" />
+
 Acer aspire 3 315-23 Hackintosh EFI
 
 This EFI is for the following Machine:
@@ -11,7 +12,7 @@ GPU: AMD Intigrated Graphics ("Picasso" Architecture)
 
 Ram: 20Gb of DDR4 @ 2400mhz
 
-SSD: 256TB Crucial P3 Plus nvme ssd
+SSD: 250GB Samsung Evo 970
 
 HDD: 1tb
 
